@@ -1,5 +1,5 @@
 # 🚀 A Journey Towards Becoming a Full Stack Developer
----
+
 Welcome to my learning journey in full stack development! This repository serves as a living document of my progress, projects, and the resources I discover as I work toward becoming a proficient full stack developer.
 
 ## 🌐 What is Full Stack Development?
@@ -36,7 +36,7 @@ Below are the folders in this repository, each representing a project or learnin
 | `/Assignment 01`      | [View Live](https://monumental-duckanoo-de4005.netlify.app/)  |
 | `/Assignment 02`      | [View Live](https://sumitvpatel.netlify.app/)  |
 | `/Assignment 03`      | [View Live](https://subtle-pegasus-974bfb.netlify.app/)  |
-| `/Assignment 04`      | Yet to be deployed  |
+| `/Assignment 04`      | Yet to be Deployed  |
 | `/Assignment 05`      | [View Live](https://monumental-phoenix-8f064c.netlify.app/)  |
 | `/Assignment 06`      | [View Live](https://candid-salmiakki-283bb0.netlify.app/)  |
 | `/Assignment 07`      | [View Live](https://gentle-quokka-104976.netlify.app/)  |
