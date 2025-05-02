@@ -31,15 +31,15 @@ This repository will track my journey as I learn, experiment, and build real-wor
 
 Below are the folders in this repository, each representing a project or learning module. Click on the deployed links to view live demos of my work.
 
-| Folder Name           | Live Demo                                  |
-|-----------------------|--------------------------------------------|
+| Folder Name           | Live Demo                                                     |
+|-----------------------|---------------------------------------------------------------|
 | `/Assignment 01`      | [View Live](https://monumental-duckanoo-de4005.netlify.app/)  |
-| `/Assignment 02`      | [View Live](https://sumitvpatel.netlify.app/)  |
-| `/Assignment 03`      | [View Live](https://subtle-pegasus-974bfb.netlify.app/)  |
+| `/Assignment 02`      | [View Live](https://sumitvpatel.netlify.app/)                 |
+| `/Assignment 03`      | [View Live](https://subtle-pegasus-974bfb.netlify.app/)       |
 | `/Assignment 04`      | Yet to be Deployed  |
-| `/Assignment 05`      | [View Live](https://monumental-phoenix-8f064c.netlify.app/)  |
-| `/Assignment 06`      | [View Live](https://candid-salmiakki-283bb0.netlify.app/)  |
-| `/Assignment 07`      | [View Live](https://gentle-quokka-104976.netlify.app/)  |
+| `/Assignment 05`      | [View Live](https://monumental-phoenix-8f064c.netlify.app/)   |
+| `/Assignment 06`      | [View Live](https://candid-salmiakki-283bb0.netlify.app/)     |
+| `/Assignment 07`      | [View Live](https://gentle-quokka-104976.netlify.app/)        |
 | `/Assignment 08`      | Yet to be Deployed  |
 
 > 🔗 *More Assignments and links will be added as they are completed and deployed.*
