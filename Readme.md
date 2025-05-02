@@ -41,10 +41,13 @@ Below are the folders in this repository, each representing a project or learnin
 
 | Folder Name           | Live Demo                        |
 |-----------------------|----------------------------------|
-| `/project-01-portfolio` | [View Live](https://your-deploy-link.com) |
-| `/project-02-todo-app`  |  [View Live](https://your-deploy-link.com) |
-| `/project-03-auth-app`  |  [View Live](https://your-deploy-link.com) |
-| `/project-04-swipe-cards` |  [View Live](https://your-deploy-link.com) |
+| `/Assignment 01 ` | [View Live](https://your-deploy-link.com) |
+| `/Assignment 02`  |  [View Live](https://your-deploy-link.com) |
+| `/Assignment 03`  |  [View Live](https://your-deploy-link.com) |
+| `/Assignment 04` |  [View Live](https://your-deploy-link.com) |
+| `/Assignment 05` |  [View Live](https://your-deploy-link.com) |
+| `/Assignment 06` |  [View Live](https://your-deploy-link.com) |
+| `/Assignment 07` |  [View Live](https://your-deploy-link.com) |
 
 > 🔗 *More projects and links will be added as they are completed and deployed.*
 
