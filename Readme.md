@@ -44,6 +44,6 @@ Below are the folders in this repository, each representing a project or learnin
 
 > 🔗 *More Assignments and links will be added as they are completed and deployed.*
 
-
+---
 > _This journey is driven by curiosity, commitment, and a passion for building impactful software. Every step, every project, and every line of code brings me closer to my goal._
 
