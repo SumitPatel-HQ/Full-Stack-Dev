@@ -1,0 +1,241 @@
+/* flex : 1 2 2% ;  -> grow, shrink, basis */
+
+
+body{
+   background-color: #3e3e3e;
+   margin: 0;
+   padding: 0;
+   font-family: Arial, Helvetica, sans-serif;
+   overflow: auto;
+}
+/* header  */
+.head {
+   position: fixed;
+   width: 80%;
+   height: 60px;
+   top: 10px;
+   left: 50%;
+   background-color: black;
+   color: white;
+   padding: 15px 40px;
+   align-items: center;
+   border-radius: 30px;
+   
+   justify-content: space-between;
+   transform: translateX(-50%);
+   display: flex;
+   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);  
+}
+.head:hover{
+   transition: all 0.3s ease-in-out;
+   box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.4); /* Elevation effect */
+   transform: translateX(-50%) scale(1.02);
+}
+
+h1 {
+   padding: 10px;
+   letter-spacing: 1.5px;
+}
+
+.head-right nav ul {
+   list-style: none;
+   display: flex;
+   gap: 40px;
+   margin-right: 20px;
+}
+
+.head-right nav ul li {
+   display: inline;
+}
+
+.head-right nav ul li a {
+   text-decoration: none;
+   font-weight: bold;
+   color: white;
+   letter-spacing: 1.02px;
+}
+button {
+   width: 120px;
+   height: 40px;
+   background-color: #646464;
+   color: #FFFFFF;
+   border: 0;
+   border-radius: 12px;
+   transition: 0.3s ease-in-out;   
+}
+
+button:hover {
+   transform: scale(1.05);
+   background-color: #7a7a7a;
+}
+
+
+/* hero  */
+
+.hero {
+   
+   height: 75vh;
+   border-radius: 2px;
+   display: flex;
+   justify-content: space-between;   /*learn this more*/
+   align-items: center;   /*learn this more*/
+   padding: 10%;
+   background-color: #3e3e3e;
+   flex-wrap: wrap; 
+   overflow: hidden;       /*learn this more*/
+   margin-top: -110px;
+}
+
+.hero-content {
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   /* text-align: center; */
+   margin-top: -125px; 
+}
+
+.hero-content h2 {
+   font-size: 48px;
+   color: #FFFFFF;
+   font-weight: bold;
+   letter-spacing: 1.5px;    
+   margin-bottom: 10px;
+   margin-top: 15px;
+}
+
+.hero-content p {
+   font-size: 18px;
+   color: #d1d1d1;
+   margin: 5px 0;
+   line-height: 1.6;
+   /* max-width: 90%; */
+   margin-top: 10px;
+}
+
+.hero-image {
+   flex: 1;
+   text-align: right;
+   border-radius: 10px;
+   margin-right: 30px;
+   
+}
+
+.hero-image img {
+   max-width: 320px; 
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4); 
+    transition: 0.3s ease-in-out;
+   
+}
+
+.hero-image img:hover {
+   transform: scale(1.1);
+}
+.skill-button {
+   display: flex;
+    gap: 20px;
+    flex-wrap: wrap; 
+    margin-top: 30px;
+}
+
+.B1 {
+   border: 0;
+   border-radius: 12px;
+   letter-spacing: 1.02px;
+   transition: 0.3s ease-in-out; 
+}
+
+.B1:hover {
+   transform: scale(1.1);
+}
+
+/* hr line  */
+.hr1 {
+   border: none;
+   height: 2px;
+   width: 40%;
+   background-color: black;
+   margin-top: -170px;
+   border-radius: 2px;
+   flex-wrap: wrap;
+}
+   
+
+/* Projects */
+
+.Projects{
+   /* display: flex; */
+   text-align: center;
+   margin: 20px;
+   justify-content: space-between;   /*learn this more*/
+   align-items: center;   /*learn this more*/
+   
+}
+
+.pro-Content{
+   display: flex;
+   justify-content: space-between;
+   flex-direction: column;
+   align-items: center;
+}
+
+
+.Projects h2 {
+   font-size: 42px;
+   display: flex;
+   justify-content: center;
+   color: white;
+   margin-top: 180px;
+   letter-spacing: 1.5px;
+}
+
+
+.pro-img {
+
+
+  background: #919090;
+  /* flex: 1; */
+  /* flex-direction: column; */
+  justify-content: center; 
+  align-items: center;
+  flex-wrap: wrap; 
+  
+  padding: 15px;
+  margin: 20px auto;
+  width: 80%;  
+  max-width: 900px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  gap: 20px; 
+  border-radius: 12px;
+ 
+}
+
+.pro-img img{
+   width: 100%;
+   height: auto;
+   border-radius: 12px;
+}
+.para {
+   flex: 1;
+   max-width: 50%;
+}
+
+
+.para h3{
+ font-size: 28px;
+ color: #FFFFFF;
+ font-weight: bold;
+ letter-spacing: 1.5px;    
+ margin-bottom: 10px;
+ margin-top: 15px;
+}
+
+.para p{
+   font-size: 18px;
+   color: #d1d1d1;
+   margin: 5px 0;
+   line-height: 1.6;
+   
+   margin-top: 10px;
+}

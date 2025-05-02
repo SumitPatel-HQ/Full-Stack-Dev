@@ -1,0 +1,64 @@
+{
+   "restaurantName": "Taj Restaurant",
+   "tagline": "Authentic Indian Vegetarian Cuisine",
+   "menu": [
+     {
+       "name": "Paneer Tikka",
+       "description": "Marinated cottage cheese cubes grilled to perfection with bell peppers and onions",
+       "price": 350,
+       "image": "/images/panner_tikka.jpg"
+     },
+     {
+       "name": "Masala Dosa",
+       "description": "Crispy rice crepe filled with spiced potato and served with coconut chutney and sambar",
+       "price": 180,
+       "image": "/images/malasal Dosa.jpg"
+     },
+     {
+       "name": "Chana Masala",
+       "description": "Spiced chickpeas cooked with onions, tomatoes, and aromatic Indian spices",
+       "price": 220,
+       "image": "/images/chana masal.jpeg"
+     },
+     {
+       "name": "Veg. Biryani",
+       "description": "Fragrant basmati rice cooked with mixed vegetables and aromatic spices",
+       "price": 280,
+       "image": "/images/Briyani.jpeg"
+     },
+     {
+       "name": "Palak Paneer",
+       "description": "Cottage cheese cubes in a creamy spinach sauce flavored with fenugreek",
+       "price": 250,
+       "image": "/images/Palak-Paneer.jpg"
+     },
+     {
+       "name": "Aloo Gobi",
+       "description": "Potatoes and cauliflower sautéed with cumin, turmeric, and fragrant spices",
+       "price": 200,
+       "image": "/images/Aloo-Gobi.jpg"
+     },
+     {
+       "name": "Dal Makhani",
+       "description": "Slow-cooked black lentils with butter, cream, and a blend of aromatic spices",
+       "price": 180,
+       "image": "/images/Dal Makhani.gif"
+     },
+     {
+       "name": "Malai Kofta",
+       "description": "Soft paneer dumplings in a rich tomato and cashew cream sauce",
+       "price": 270,
+       "image": "/images/Malai-Kofta.jpg"
+     },
+     {
+       "name": "Gulab Jamun",
+       "description": "Soft milk-solid dumplings soaked in rose and cardamom flavored sugar syrup",
+       "price": 100,
+       "image": "/images/Gulab-Jamun.jpg"
+     }
+   ],
+   "footerNotes": [
+     "18% GST added for parties of 6 or more",
+     "All dishes are 100% vegetarian"
+   ]
+ }
