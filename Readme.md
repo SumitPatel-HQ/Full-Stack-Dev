@@ -39,15 +39,15 @@ This repository will track my journey as I learn, experiment, and build real-wor
 
 Below are the folders in this repository, each representing a project or learning module. Click on the deployed links to view live demos of my work.
 
-| Folder Name           | Live Demo                        |
-|-----------------------|----------------------------------|
-| `/Assignment 01 ` | [View Live](https://your-deploy-link.com) |
-| `/Assignment 02`  |  [View Live](https://your-deploy-link.com) |
-| `/Assignment 03`  |  [View Live](https://your-deploy-link.com) |
-| `/Assignment 04` |  [View Live](https://your-deploy-link.com) |
-| `/Assignment 05` |  [View Live](https://your-deploy-link.com) |
-| `/Assignment 06` |  [View Live](https://your-deploy-link.com) |
-| `/Assignment 07` |  [View Live](https://your-deploy-link.com) |
+| Folder Name           | Live Demo                                  |
+|-----------------------|--------------------------------------------|
+| `/Assignment 01`      | [View Live](https://your-deploy-link.com)  |
+| `/Assignment 02`      | [View Live](https://your-deploy-link.com)  |
+| `/Assignment 03`      | [View Live](https://your-deploy-link.com)  |
+| `/Assignment 04`      | [View Live](https://your-deploy-link.com)  |
+| `/Assignment 05`      | [View Live](https://your-deploy-link.com)  |
+| `/Assignment 06`      | [View Live](https://your-deploy-link.com)  |
+| `/Assignment 07`      | [View Live](https://your-deploy-link.com)  |
 
 > 🔗 *More projects and links will be added as they are completed and deployed.*
 
