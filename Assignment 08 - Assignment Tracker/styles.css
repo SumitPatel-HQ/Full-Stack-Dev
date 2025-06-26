@@ -1,0 +1,89 @@
+/* Custom styles beyond Tailwind CSS */
+
+/* Animations for adding new assignments */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.7s cubic-bezier(0.4,0,0.2,1);
+}
+.animate-fade-in-up {
+  animation: fade-in-up 0.7s cubic-bezier(0.4,0,0.2,1);
+}
+
+#assignments-container > div {
+  animation: fadeIn 0.3s ease-in-out;
+  transition: box-shadow 0.2s, transform 0.2s, background 0.2s;
+  box-shadow: 0 2px 12px 0 rgba(80, 80, 180, 0.08);
+  border-radius: 1.5rem;
+  background: rgba(255,255,255,0.95);
+}
+#assignments-container > div:hover {
+  box-shadow: 0 6px 24px 0 rgba(80, 80, 180, 0.16);
+  transform: translateY(-2px) scale(1.01);
+  background: rgba(245,245,255,1);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #b0b0b0;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
+
+button, input[type="submit"] {
+  transition: background 0.2s, box-shadow 0.2s, transform 0.2s;
+}
+button:hover, input[type="submit"]:hover {
+  box-shadow: 0 4px 16px 0 rgba(80, 80, 180, 0.12);
+  transform: translateY(-1px) scale(1.01);
+}
+
+input, select, textarea {
+  border-radius: 0.75rem !important;
+  background: rgba(255,255,255,0.85);
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+  .container {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+  .max-w-xl, .max-w-2xl {
+    padding: 1.5rem !important;
+  }
+  h1, h2 {
+    font-size: 1.25rem !important;
+  }
+}
